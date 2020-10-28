@@ -8,3 +8,4 @@ def display_board
   puts dashed_row
   puts empty_row
 end
+display_board
